@@ -1,5 +1,5 @@
 import { Brain } from "./skeleton.js";
-const surl = "https://sx4ywp-9000.csb.app/api/";
+const surl = "https://sx4ywp-9000.csb.app/api";
 let getbtn = document.querySelector("#get-btn");
 getbtn.addEventListener("click", () => {
   alert("clicked");
